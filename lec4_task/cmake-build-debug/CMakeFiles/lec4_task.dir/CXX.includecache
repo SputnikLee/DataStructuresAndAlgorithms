@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/lec4_task/queue.cpp
+queue.h
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/lec4_task/queue.h
+stdlib.h
+-
+stdio.h
+-
+
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/lec4_task/queue.h
+

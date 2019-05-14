@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/lec9_task/BST.cpp
+BST.h
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/lec9_task/BST.h
+stdlib.h
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/lec9_task/stdlib.h
+
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/lec9_task/BST.h
+

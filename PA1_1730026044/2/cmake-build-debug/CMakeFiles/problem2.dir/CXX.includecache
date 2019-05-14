@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/PA1/problem2/stack.cpp
+stack.h
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/PA1/problem2/stack.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/PA1/problem2/stack.h
+

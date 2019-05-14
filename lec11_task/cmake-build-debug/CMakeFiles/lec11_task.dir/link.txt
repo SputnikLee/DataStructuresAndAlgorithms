@@ -1,0 +1,1 @@
+/usr/local/Cellar/gcc@7/7.3.0/bin/g++-7  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/lec11_task.dir/main.cpp.o CMakeFiles/lec11_task.dir/AVL.cpp.o CMakeFiles/lec11_task.dir/printTree.cpp.o  -o lec11_task 

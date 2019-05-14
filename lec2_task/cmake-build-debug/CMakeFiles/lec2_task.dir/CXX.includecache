@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/lec2_task/list.cpp
+stdio.h
+-
+stdlib.h
+-
+list.h
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/lec2_task/list.h
+
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/lec2_task/list.h
+

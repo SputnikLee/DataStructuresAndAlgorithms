@@ -1,0 +1,3 @@
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/lec6_task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/lec6_task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Sputniklee/Desktop/Data Structures and Algorithms/lec6_task/cmake-build-debug/CMakeFiles/lec6_task.dir
